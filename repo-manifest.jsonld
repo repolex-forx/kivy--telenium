@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/telenium/commit/92300fbf6b0661b16f6d6c4da3fabe719d2c473e",
       "git:hexsha": "92300fbf6b0661b16f6d6c4da3fabe719d2c473e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kivy/telenium/commit/d7ffb4b5f1987de78ec9c8030975f5ff43691e48",
